@@ -1,0 +1,9 @@
+{
+  "name": "request-promise",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies":{
+    "request": "~2.34.0",
+    "underscore": "~1.6.0"
+  }
+}
