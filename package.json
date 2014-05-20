@@ -1,11 +1,11 @@
 {
-  "name": "request-promise",
+  "name": "requesto",
   "version": "0.0.1",
   "private": false,
   "description": "Promise-based http library",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kkudryavtsev/request-promise.git"
+    "url": "git@github.com:ethertools/request-promise.git"
   },
   "dependencies":{
     "request": "~2.34.0",
