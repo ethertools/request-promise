@@ -2,6 +2,11 @@
   "name": "request-promise",
   "version": "0.0.1",
   "private": false,
+  "description": "Promise-based http library",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kkudryavtsev/request-promise.git"
+  },
   "dependencies":{
     "request": "~2.34.0",
     "underscore": "~1.6.0"
